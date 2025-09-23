@@ -1,0 +1,43 @@
+{
+  "emails": [
+    "support@company.com",
+    "sales@subdomain.example.org"
+  ],
+  "urls": [
+    "https://www.example.com",
+    "https://subdomain.example.org/page"
+  ],
+  "phones": [
+    "(123) 456-7890",
+    "123-456-7890",
+    "123.456.7890"
+  ],
+  "credit_cards": [
+    "1234 5678 9012 3456",
+    "1234-5678-9012-3456"
+  ],
+  "times": [
+    "9:00 AM",
+    "17:30",
+    "14:30",
+    "2:30 PM"
+  ],
+  "html_tags": [
+    "<div class=\"container\">",
+    "<p>",
+    "</p>",
+    "<img src=\"logo.jpg\" alt=\"Company Logo\">",
+    "</div>"
+  ],
+  "hashtags": [
+    "#TechTips",
+    "#WebDevelopment",
+    "#CodingLife",
+    "#Innovation2024"
+  ],
+  "currency": [
+    "$19.99",
+    "$99.99",
+    "$1,234.56"
+  ]
+}
